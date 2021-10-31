@@ -42,6 +42,8 @@
         "prettier/prettier": [
             2,
             {
+                
+                "endOfLine": "auto",
                 "bracketSpacing": true,
                 "printWidth": 140,
                 "singleQuote": true,
